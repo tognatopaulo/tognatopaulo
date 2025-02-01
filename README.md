@@ -1,8 +1,7 @@
-<h2 align="left">About me</h2>
+<h1 align="center">Hi 👋, I'm Paulo Gusttavo Tognato</h1>
+<h3 align="center">A passionate DevOps and Backend Developer from Brazil</h3>
 
-###
-
-<p align="left">I have a broad background working in operational environments that are critical to global organizations, with a strong ability to adapt and continuously learn new technologies. I'm self-taught and always on the lookout for ways to bring innovation and efficiency to my work.<br><br>I’m experienced with Linux systems, server infrastructure (both traditional and hyperconverged), virtualization technologies, and cloud platforms like AWS, Google Cloud, and Azure. Additionally, I have hands-on experience with containers (Docker, Podman, ECS) and a variety of automation and CI/CD tools (Shell Script, Python, Ansible, GitHub, Terraform, Jenkins).<br><br>For the past years, I've focused on backend software development with Java Spring Boot, integrating with SQL an No-SQL databases, also working with asynchronous event-driven architectures.</p>
+- 📫 How to reach me: **paulo.tognato@hotmail.com**
 
 ###
 
@@ -41,8 +40,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tognatopaulo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tognatopaulo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tognatopaulo&show_icons=true&theme=gruvbox_light&locale=en&layout=compact" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tognatopaulo&show_icons=true&theme=gruvbox_light&locale=en" height="150" alt="languages graph"  />
 </div>
 
 ###
